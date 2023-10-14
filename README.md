@@ -6,7 +6,7 @@
 ## 발표 내용
 |챕터|링크|
 |---|---|
-|Chapter2|[데이터다루기]()| https://velog.io/@wjddmlcks22/CH02-데이터다루기
+|Chapter2|[데이터다루기](https://velog.io/@wjddmlcks22/CH02-데이터다루기)|
 
 
 # 멤버
