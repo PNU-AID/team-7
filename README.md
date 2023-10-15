@@ -7,6 +7,7 @@
 |챕터|링크|
 |---|---|
 |Chapter2|[데이터다루기](https://velog.io/@wjddmlcks22/CH02-데이터다루기)|
+|Chapter3|[회귀알고리즘과모델규제](https://velog.io/@wjddmlcks22/CH02-데이터다루기)|
 
 
 # 멤버
