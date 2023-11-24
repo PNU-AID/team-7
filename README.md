@@ -10,6 +10,7 @@
 |Chapter3|[회귀알고리즘과모델규제](https://velog.io/@soheean1370/Chapter-03-회귀-알고리즘과-모델-규제)|
 |Chapter4|[다양한 분류 알고리즘](https://velog.io/@wjddmlcks22/다양한-분류-알고리즘)|
 |Chapter5|[트리 알고리즘](https://velog.io/@soheean1370/Chapter05-트리-알고리즘)|
+|Chapter6|[비지도 학습]|(https://velog.io/@wjddmlcks22/CH06-비지도-학습)|
 |Chapter7|[딥러닝을 시작합니다!](https://velog.io/@soheean1370/chapter7-딥러닝을-시작합니다)|
 
 # 멤버
