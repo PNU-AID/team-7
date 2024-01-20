@@ -12,8 +12,7 @@
 |Chapter5|[트리 알고리즘](https://velog.io/@soheean1370/Chapter05-트리-알고리즘)|
 |Chapter6|[비지도 학습](https://velog.io/@wjddmlcks22/CH06-비지도-학습)|
 |Chapter7|[딥러닝을 시작합니다!](https://velog.io/@soheean1370/chapter7-딥러닝을-시작합니다)|
-|Chapter8|[이미지를 위한 인공 신경망]
-(https://velog.io/@wjddmlcks22/CH08-이미지를-위한-인공-신경망)|
+|Chapter8|[이미지를 위한 인공 신경망](https://velog.io/@wjddmlcks22/CH08-이미지를-위한-인공-신경망)|
 
 # 멤버
 - [안소희](https://github.com/soheean1370)
