@@ -13,6 +13,8 @@
 |Chapter6|[비지도 학습](https://velog.io/@wjddmlcks22/CH06-비지도-학습)|
 |Chapter7|[딥러닝을 시작합니다!](https://velog.io/@soheean1370/chapter7-딥러닝을-시작합니다)|
 |Chapter8|[이미지를 위한 인공 신경망](https://velog.io/@wjddmlcks22/CH08-이미지를-위한-인공-신경망)|
+|Chapter9|[텍스트를 위한 인공 신경망](https://velog.io/@soheean1370/CH09-텍스트를-위한-인공-신경망)|
+
 
 # 멤버
 - [안소희](https://github.com/soheean1370)
